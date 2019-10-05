@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetConference2019", "NetConference2019\NetConference2019.csproj", "{FDFEDA70-6634-41DD-A13F-C9A2E529B0FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDFEDA70-6634-41DD-A13F-C9A2E529B0FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDFEDA70-6634-41DD-A13F-C9A2E529B0FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDFEDA70-6634-41DD-A13F-C9A2E529B0FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDFEDA70-6634-41DD-A13F-C9A2E529B0FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39648CD1-22AF-4EC0-89DF-F65D7FD088F2}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\lunel\source\repos\NetConference2019\NetConference2019\bin\Debug\netcoreapp3.0\NetConference2019.exe
+C:\Users\lunel\source\repos\NetConference2019\NetConference2019\bin\Debug\netcoreapp3.0\NetConference2019.deps.json
+C:\Users\lunel\source\repos\NetConference2019\NetConference2019\bin\Debug\netcoreapp3.0\NetConference2019.runtimeconfig.json
+C:\Users\lunel\source\repos\NetConference2019\NetConference2019\bin\Debug\netcoreapp3.0\NetConference2019.runtimeconfig.dev.json
+C:\Users\lunel\source\repos\NetConference2019\NetConference2019\bin\Debug\netcoreapp3.0\NetConference2019.dll
+C:\Users\lunel\source\repos\NetConference2019\NetConference2019\bin\Debug\netcoreapp3.0\NetConference2019.pdb
+C:\Users\lunel\source\repos\NetConference2019\NetConference2019\obj\Debug\netcoreapp3.0\NetConference2019.csprojAssemblyReference.cache
+C:\Users\lunel\source\repos\NetConference2019\NetConference2019\obj\Debug\netcoreapp3.0\NetConference2019.AssemblyInfoInputs.cache
+C:\Users\lunel\source\repos\NetConference2019\NetConference2019\obj\Debug\netcoreapp3.0\NetConference2019.AssemblyInfo.cs
+C:\Users\lunel\source\repos\NetConference2019\NetConference2019\obj\Debug\netcoreapp3.0\NetConference2019.dll
+C:\Users\lunel\source\repos\NetConference2019\NetConference2019\obj\Debug\netcoreapp3.0\NetConference2019.pdb
